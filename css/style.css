@@ -1,1 +1,65 @@
-/*# sourceMappingURL=style.css.map */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-width: 1440px;
+}
+
+header nav {
+  display: flex;
+}
+header nav .cont1 {
+  margin-left: 147px;
+  width: 102px;
+  height: 54.78px;
+  margin-right: 30px;
+}
+header nav .d1 {
+  width: 420px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+header nav .d2 {
+  display: flex;
+  justify-content: space-between;
+  color: grey;
+  border-bottom: 2px solid grey;
+  height: 50px;
+  padding-top: 15px;
+  margin-left: 30px;
+}
+header nav .d2 img {
+  width: 50px;
+  height: 18px;
+  margin-left: 30px;
+}
+header nav .cont2 {
+  margin-left: 45px;
+  width: 82px;
+  height: 35px;
+  margin-top: 12px;
+}
+header aside {
+  background-color: rgb(245, 245, 245);
+  height: 50px;
+  padding: 10px;
+  margin-top: 20px;
+}
+header aside main {
+  width: 1133px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 140px;
+}
+header aside main p {
+  width: 75px;
+  height: 28px;
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: 400px;
+}/*# sourceMappingURL=style.css.map */
